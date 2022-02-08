@@ -1,0 +1,6 @@
+packages:
+- express
+- body-parser
+- cors
+- nodemon
+- morgan
